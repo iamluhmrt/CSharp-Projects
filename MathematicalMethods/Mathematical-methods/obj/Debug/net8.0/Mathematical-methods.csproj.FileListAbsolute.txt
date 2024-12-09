@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\bin\Debug\net8.0\Mathematical-methods.exe
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\bin\Debug\net8.0\Mathematical-methods.deps.json
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\bin\Debug\net8.0\Mathematical-methods.runtimeconfig.json
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\bin\Debug\net8.0\Mathematical-methods.dll
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\bin\Debug\net8.0\Mathematical-methods.pdb
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\Mathematical-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\Mathematical-methods.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\Mathematical-methods.AssemblyInfo.cs
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\Mathematical-methods.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\Mathematical-methods.dll
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\refint\Mathematical-methods.dll
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\Mathematical-methods.pdb
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\Mathematical-methods.genruntimeconfig.cache
+C:\Users\luizm\source\repos\Mathematical-methods\Mathematical-methods\obj\Debug\net8.0\ref\Mathematical-methods.dll

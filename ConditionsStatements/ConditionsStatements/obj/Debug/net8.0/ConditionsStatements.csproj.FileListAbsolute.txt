@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\bin\Debug\net8.0\ConditionsStatements.exe
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\bin\Debug\net8.0\ConditionsStatements.deps.json
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\bin\Debug\net8.0\ConditionsStatements.runtimeconfig.json
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\bin\Debug\net8.0\ConditionsStatements.dll
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\bin\Debug\net8.0\ConditionsStatements.pdb
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\ConditionsStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\ConditionsStatements.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\ConditionsStatements.AssemblyInfo.cs
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\ConditionsStatements.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\ConditionsStatements.dll
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\refint\ConditionsStatements.dll
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\ConditionsStatements.pdb
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\ConditionsStatements.genruntimeconfig.cache
+C:\Users\luizm\source\repos\ConditionsStatements\ConditionsStatements\obj\Debug\net8.0\ref\ConditionsStatements.dll

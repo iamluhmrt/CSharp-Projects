@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\Switches\Switches\bin\Debug\net8.0\Switches.exe
+C:\Users\luizm\source\repos\Switches\Switches\bin\Debug\net8.0\Switches.deps.json
+C:\Users\luizm\source\repos\Switches\Switches\bin\Debug\net8.0\Switches.runtimeconfig.json
+C:\Users\luizm\source\repos\Switches\Switches\bin\Debug\net8.0\Switches.dll
+C:\Users\luizm\source\repos\Switches\Switches\bin\Debug\net8.0\Switches.pdb
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\Switches.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\Switches.AssemblyInfo.cs
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\Switches.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\Switches.dll
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\refint\Switches.dll
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\Switches.pdb
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\Switches.genruntimeconfig.cache
+C:\Users\luizm\source\repos\Switches\Switches\obj\Debug\net8.0\ref\Switches.dll

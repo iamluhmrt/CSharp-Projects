@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\Type-casting\Type-casting\bin\Debug\net8.0\Type-casting.exe
+C:\Users\luizm\source\repos\Type-casting\Type-casting\bin\Debug\net8.0\Type-casting.deps.json
+C:\Users\luizm\source\repos\Type-casting\Type-casting\bin\Debug\net8.0\Type-casting.runtimeconfig.json
+C:\Users\luizm\source\repos\Type-casting\Type-casting\bin\Debug\net8.0\Type-casting.dll
+C:\Users\luizm\source\repos\Type-casting\Type-casting\bin\Debug\net8.0\Type-casting.pdb
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\Type-casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\Type-casting.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\Type-casting.AssemblyInfo.cs
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\Type-casting.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\Type-casting.dll
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\refint\Type-casting.dll
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\Type-casting.pdb
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\Type-casting.genruntimeconfig.cache
+C:\Users\luizm\source\repos\Type-casting\Type-casting\obj\Debug\net8.0\ref\Type-casting.dll

@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0\NestedLoops.exe
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0\NestedLoops.deps.json
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0\NestedLoops.runtimeconfig.json
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0\NestedLoops.dll
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\bin\Debug\net8.0\NestedLoops.pdb
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\NestedLoops.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\NestedLoops.AssemblyInfo.cs
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\NestedLoops.dll
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\refint\NestedLoops.dll
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\NestedLoops.pdb
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\NestedLoops.genruntimeconfig.cache
+C:\Users\luizm\source\repos\NestedLoops\NestedLoops\obj\Debug\net8.0\ref\NestedLoops.dll

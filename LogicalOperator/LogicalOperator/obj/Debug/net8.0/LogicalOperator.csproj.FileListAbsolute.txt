@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.exe
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.deps.json
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.runtimeconfig.json
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.dll
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\bin\Debug\net8.0\LogicalOperator.pdb
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfo.cs
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.dll
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\refint\LogicalOperator.dll
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.pdb
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\LogicalOperator.genruntimeconfig.cache
+C:\Users\luizm\source\repos\LogicalOperator\LogicalOperator\obj\Debug\net8.0\ref\LogicalOperator.dll

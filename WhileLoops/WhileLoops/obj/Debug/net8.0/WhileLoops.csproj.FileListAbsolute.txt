@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.exe
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.deps.json
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.runtimeconfig.json
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.dll
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.pdb
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.AssemblyInfo.cs
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.dll
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\refint\WhileLoops.dll
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.pdb
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.genruntimeconfig.cache
+C:\Users\luizm\source\repos\WhileLoops\WhileLoops\obj\Debug\net8.0\ref\WhileLoops.dll

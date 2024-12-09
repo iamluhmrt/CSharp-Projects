@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luizm\\source\\repos\\ConditionsStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4EF9A-ECDA-4954-A1EF-106E1ECD2CDB}|ConditionsStatements\\ConditionsStatements.csproj|c:\\users\\luizm\\source\\repos\\conditionsstatements\\conditionsstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4EF9A-ECDA-4954-A1EF-106E1ECD2CDB}|ConditionsStatements\\ConditionsStatements.csproj|solutionrelative:conditionsstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luizm\\source\\repos\\ConditionsStatements\\ConditionsStatements\\Program.cs",
+              "RelativeDocumentMoniker": "ConditionsStatements\\Program.cs",
+              "ToolTip": "C:\\Users\\luizm\\source\\repos\\ConditionsStatements\\ConditionsStatements\\Program.cs",
+              "RelativeToolTip": "ConditionsStatements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:53:45.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

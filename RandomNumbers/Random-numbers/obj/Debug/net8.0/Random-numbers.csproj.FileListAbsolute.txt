@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\bin\Debug\net8.0\Random-numbers.exe
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\bin\Debug\net8.0\Random-numbers.deps.json
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\bin\Debug\net8.0\Random-numbers.runtimeconfig.json
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\bin\Debug\net8.0\Random-numbers.dll
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\bin\Debug\net8.0\Random-numbers.pdb
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\Random-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\Random-numbers.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\Random-numbers.AssemblyInfo.cs
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\Random-numbers.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\Random-numbers.dll
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\refint\Random-numbers.dll
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\Random-numbers.pdb
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\Random-numbers.genruntimeconfig.cache
+C:\Users\luizm\source\repos\Random-numbers\Random-numbers\obj\Debug\net8.0\ref\Random-numbers.dll

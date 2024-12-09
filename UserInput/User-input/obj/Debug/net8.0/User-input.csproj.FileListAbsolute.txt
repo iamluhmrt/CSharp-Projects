@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\User-input\User-input\bin\Debug\net8.0\User-input.exe
+C:\Users\luizm\source\repos\User-input\User-input\bin\Debug\net8.0\User-input.deps.json
+C:\Users\luizm\source\repos\User-input\User-input\bin\Debug\net8.0\User-input.runtimeconfig.json
+C:\Users\luizm\source\repos\User-input\User-input\bin\Debug\net8.0\User-input.dll
+C:\Users\luizm\source\repos\User-input\User-input\bin\Debug\net8.0\User-input.pdb
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\User-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\User-input.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\User-input.AssemblyInfo.cs
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\User-input.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\User-input.dll
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\refint\User-input.dll
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\User-input.pdb
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\User-input.genruntimeconfig.cache
+C:\Users\luizm\source\repos\User-input\User-input\obj\Debug\net8.0\ref\User-input.dll

@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\HypotenuseCalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\HypotenuseCalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\HypotenuseCalculatorProgram.AssemblyInfo.cs
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\HypotenuseCalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\bin\Debug\net8.0\HypotenuseCalculatorProgram.exe
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\bin\Debug\net8.0\HypotenuseCalculatorProgram.deps.json
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\bin\Debug\net8.0\HypotenuseCalculatorProgram.runtimeconfig.json
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\bin\Debug\net8.0\HypotenuseCalculatorProgram.dll
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\bin\Debug\net8.0\HypotenuseCalculatorProgram.pdb
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\HypotenuseCalculatorProgram.dll
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\refint\HypotenuseCalculatorProgram.dll
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\HypotenuseCalculatorProgram.pdb
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\HypotenuseCalculatorProgram.genruntimeconfig.cache
+C:\Users\luizm\source\repos\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\net8.0\ref\HypotenuseCalculatorProgram.dll

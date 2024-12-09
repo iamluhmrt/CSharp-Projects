@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luizm\\source\\repos\\ParityChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78BBE342-D5E3-478B-BCFF-4F4B1BC10DB8}|ParityChecker\\ParityChecker.csproj|c:\\users\\luizm\\source\\repos\\paritychecker\\paritychecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BBE342-D5E3-478B-BCFF-4F4B1BC10DB8}|ParityChecker\\ParityChecker.csproj|solutionrelative:paritychecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luizm\\source\\repos\\ParityChecker\\ParityChecker\\Program.cs",
+              "RelativeDocumentMoniker": "ParityChecker\\Program.cs",
+              "ToolTip": "C:\\Users\\luizm\\source\\repos\\ParityChecker\\ParityChecker\\Program.cs",
+              "RelativeToolTip": "ParityChecker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:50:55.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

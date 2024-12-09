@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\bin\Debug\net8.0\ParityChecker.exe
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\bin\Debug\net8.0\ParityChecker.deps.json
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\bin\Debug\net8.0\ParityChecker.runtimeconfig.json
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\bin\Debug\net8.0\ParityChecker.dll
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\bin\Debug\net8.0\ParityChecker.pdb
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\ParityChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\ParityChecker.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\ParityChecker.AssemblyInfo.cs
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\ParityChecker.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\ParityChecker.dll
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\refint\ParityChecker.dll
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\ParityChecker.pdb
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\ParityChecker.genruntimeconfig.cache
+C:\Users\luizm\source\repos\ParityChecker\ParityChecker\obj\Debug\net8.0\ref\ParityChecker.dll

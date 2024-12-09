@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\bin\Debug\net8.0\GradeClassifier.exe
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\bin\Debug\net8.0\GradeClassifier.deps.json
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\bin\Debug\net8.0\GradeClassifier.runtimeconfig.json
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\bin\Debug\net8.0\GradeClassifier.dll
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\bin\Debug\net8.0\GradeClassifier.pdb
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\GradeClassifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\GradeClassifier.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\GradeClassifier.AssemblyInfo.cs
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\GradeClassifier.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\GradeClassifier.dll
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\refint\GradeClassifier.dll
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\GradeClassifier.pdb
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\GradeClassifier.genruntimeconfig.cache
+C:\Users\luizm\source\repos\GradeClassifier\GradeClassifier\obj\Debug\net8.0\ref\GradeClassifier.dll

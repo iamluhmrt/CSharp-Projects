@@ -1,0 +1,14 @@
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\net8.0\LeapYearChecker.exe
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\net8.0\LeapYearChecker.deps.json
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\net8.0\LeapYearChecker.runtimeconfig.json
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\net8.0\LeapYearChecker.dll
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\net8.0\LeapYearChecker.pdb
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\LeapYearChecker.AssemblyInfoInputs.cache
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\LeapYearChecker.AssemblyInfo.cs
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\LeapYearChecker.csproj.CoreCompileInputs.cache
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\LeapYearChecker.dll
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\refint\LeapYearChecker.dll
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\LeapYearChecker.pdb
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\LeapYearChecker.genruntimeconfig.cache
+C:\Users\luizm\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\net8.0\ref\LeapYearChecker.dll

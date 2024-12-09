@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luizm\\source\\repos\\Arithmetic-operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D134495-370E-4AB3-913C-073C2ADF8CFF}|Arithmetic-operators\\Arithmetic-operators.csproj|c:\\users\\luizm\\source\\repos\\arithmetic-operators\\arithmetic-operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D134495-370E-4AB3-913C-073C2ADF8CFF}|Arithmetic-operators\\Arithmetic-operators.csproj|solutionrelative:arithmetic-operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luizm\\source\\repos\\Arithmetic-operators\\Arithmetic-operators\\Program.cs",
+              "RelativeDocumentMoniker": "Arithmetic-operators\\Program.cs",
+              "ToolTip": "C:\\Users\\luizm\\source\\repos\\Arithmetic-operators\\Arithmetic-operators\\Program.cs",
+              "RelativeToolTip": "Arithmetic-operators\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:10:47.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
